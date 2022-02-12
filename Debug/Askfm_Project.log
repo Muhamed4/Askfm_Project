@@ -1,0 +1,11 @@
+﻿  Askfm_Project.cpp
+C:\Users\HP\Desktop\Askfm_Project\Askfm_Project\Askfm_Project.cpp(64,17): warning C4566: character represented by universal-character-name '\U0001F641' cannot be represented in the current code page (1252)
+C:\Users\HP\Desktop\Askfm_Project\Askfm_Project\Askfm_Project.cpp(93,34): warning C4244: 'argument': conversion from 'll' to 'int', possible loss of data
+C:\Users\HP\Desktop\Askfm_Project\Askfm_Project\Askfm_Project.cpp(121,30): warning C4244: 'argument': conversion from 'll' to 'int', possible loss of data
+C:\Users\HP\Desktop\Askfm_Project\Askfm_Project\Askfm_Project.cpp(149,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\Askfm_Project\Askfm_Project\Askfm_Project.cpp(153,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\Askfm_Project\Askfm_Project\Askfm_Project.cpp(248,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\Askfm_Project\Askfm_Project\Askfm_Project.cpp(265,50): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\Askfm_Project\Askfm_Project\Askfm_Project.cpp(433,42): warning C4244: 'argument': conversion from 'll' to 'int', possible loss of data
+C:\Users\HP\Desktop\Askfm_Project\Askfm_Project\Askfm_Project.cpp(453,38): warning C4244: 'argument': conversion from 'll' to 'int', possible loss of data
+  Askfm_Project.vcxproj -> C:\Users\HP\Desktop\Askfm_Project\Debug\Askfm_Project.exe
